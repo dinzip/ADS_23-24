@@ -73,5 +73,6 @@ public class B {
         }
         dll.shift(k);
         dll.displayForward();
+        sc.close();
     }
 }

@@ -56,6 +56,6 @@ public class A {
         }
         int target = sc.nextInt();
         System.out.println(n - sll.min(target) - 1); // since we work with reversed list, n-1-answer
-
+        sc.close();
     }
 }
