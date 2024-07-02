@@ -48,20 +48,14 @@ public class A {
     }
 
     public static void main(String[] args) {
-//        File myObj = new File("PPP3.txt");
-//        long startTime = System.nanoTime();
-
         A sll = new A();
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         for(int i = 0; i < n; i++) {
             sll.insert(sc.nextInt());
         }
-//        sll.display(); // we have reversed list
         int target = sc.nextInt();
         System.out.println(n - sll.min(target) - 1); // since we work with reversed list, n-1-answer
 
-//        long stopTime = System.nanoTime();
-//        System.out.println(stopTime - startTime);
     }
 }
