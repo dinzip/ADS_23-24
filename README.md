@@ -48,9 +48,19 @@ This repository documents my learning journey of Advanced Data Structures (ADS) 
 
 ## **Usage**
 
-  In files you can find tasks/labs, and practice.
+  In **files** you can find tasks/labs, and practice.
 
-  In codes you can find my own solutions for each task.
+  In **codes** you can find my own solutions for each task.
 
 
+## **Labs topics**
 
+1st - *Queue/Stack/Deque*
+
+2nd - *Linked lists/Doubly-Linked lists*
+
+3rd - *Binary/Linear search*
+
+4th - *BST*
+
+5th - *i didn't start yet 😅*
