@@ -63,4 +63,6 @@ This repository documents my learning journey of Advanced Data Structures (ADS) 
 
 4th - *BST*
 
-5th - *i didn't start yet 😅*
+5th - *Priority Queue/Heap*
+
+6th - *i didn't start yet 😅*
