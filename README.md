@@ -59,7 +59,7 @@ This repository documents my learning journey of Advanced Data Structures (ADS) 
 
 2nd - *Linked lists/Doubly-Linked lists*
 
-3rd - *Binary/Linear search*
+3rd - *Binary Search*
 
 4th - *BST*
 
