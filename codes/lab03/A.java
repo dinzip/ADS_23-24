@@ -3,16 +3,6 @@ import java.util.Scanner;
 
 public class A {
 
-    public void display(int[][] arr, int n, int m) {
-        for(int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                System.out.print(arr[i][j] + " ");
-            }
-            System.out.println();
-        }
-
-    }
-
     public int row(int[][] arr, int n, int val) {
         int low = 0;
         int high = n - 1;
@@ -68,7 +58,6 @@ public class A {
                     arr[i][j] = sc.nextInt();
         }
 
-        task.display(arr, n, m);
         for(int i : queries) {
             int row = task.row(arr, n, i);
             int col = task.column(arr, row, m, i);
