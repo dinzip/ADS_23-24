@@ -66,3 +66,5 @@ This repository documents my learning journey of Advanced Data Structures (ADS) 
 5th - *Priority Queue/Heap*
 
 6th - *i didn't start yet 😅*
+
+7th - *Merge Sort*
