@@ -2,7 +2,6 @@ package lab02;
 
 // Doubly Linked List
 
-import java.util.List;
 import java.util.Scanner;
 
 public class B {
