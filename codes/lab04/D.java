@@ -77,5 +77,6 @@ public class D{
             bst.insert(sc.nextInt());
         }
         bst.solve();
+        sc.close();
     }
 }

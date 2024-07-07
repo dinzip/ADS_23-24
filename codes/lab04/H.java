@@ -54,5 +54,6 @@ public class H {
             bst.insert(sc.nextInt());
 
         bst.solve(bst.root);
+        sc.close();
     }
 }

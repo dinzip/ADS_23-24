@@ -109,6 +109,7 @@ public class D {
             pq.insert(sc.nextInt());
 
         System.out.println(pq.solve(k));
+        sc.close();
     }
 
 }

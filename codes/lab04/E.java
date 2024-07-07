@@ -107,5 +107,6 @@ public class E{
         }
 //        bt.display();
         System.out.println(bt.solve());
+        sc.close();
     }
 }

@@ -69,5 +69,6 @@ public class A {
         for(int i = 0; i < m; i++) {
             System.out.println(bst.solve(sc.next()));
         }
+        sc.close();
     }
 }

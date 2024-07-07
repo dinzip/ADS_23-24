@@ -99,5 +99,6 @@ public class B {
             System.out.println(0);
         else
             System.out.println(pq.deleteMax());
+        sc.close();
     }
 }

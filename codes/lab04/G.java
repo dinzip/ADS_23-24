@@ -62,5 +62,6 @@ public class G {
             bst.insert(sc.nextInt());
 
         System.out.println(bst.diameter());
+        sc.close();
     }
 }

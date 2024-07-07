@@ -145,5 +145,6 @@ public class I {
             bst.solve(sc.next(), sc.nextInt());
 //            bst.display(); // to check current bst
         }
+        sc.close();
     }
 }

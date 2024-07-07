@@ -84,6 +84,6 @@ public class F{
 //        bst.display();
         bst.inOrder(bst.root);
         System.out.println(bst.res);
-
+        sc.close();
     }
 }

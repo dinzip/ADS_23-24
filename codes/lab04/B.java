@@ -63,5 +63,6 @@ public class B {
 
         int target = sc.nextInt();
         System.out.println(bst.solve(bst.root, target));
+        sc.close();
     }
 }

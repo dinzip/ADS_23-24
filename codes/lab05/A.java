@@ -97,5 +97,6 @@ public class A {
             pq.insert(first + second);
         }
         System.out.println(sum);
+        sc.close();
     }
 }

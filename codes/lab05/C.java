@@ -134,6 +134,7 @@ public class C {
             pq.insert(sc.nextInt());
 
         System.out.println(pq.solve(m, k));
+        sc.close();
     }
 }
 

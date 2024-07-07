@@ -69,5 +69,6 @@ public class C {
         }
         int target = sc.nextInt();
         bst.solve(target);
+        sc.close();
     }
 }
